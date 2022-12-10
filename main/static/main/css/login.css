@@ -1,0 +1,25 @@
+.login-form {
+    padding: 80px 16px 16px;
+}
+
+.login-form__error {
+    text-align: center;
+    margin: 8px;
+}
+
+.login-form__field {
+    text-align: center;
+}
+
+.login-form__submit {
+    display: block;
+    width: 198px;
+    margin: 16px auto;
+    padding: 8px 0;
+    border: 1px solid #097b1a;
+    border-radius: 10px;
+    font-size: 1rem;
+    color: rgb(166, 115, 216);
+    background-color: rgb(17, 220, 227);
+    text-align: center;
+}

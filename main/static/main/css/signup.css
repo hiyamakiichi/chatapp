@@ -1,0 +1,20 @@
+.errorlist {
+    color: rgb(222, 161, 48);
+}
+
+.signup-form {
+    padding: 80px 16px 16px;
+}
+
+.signup-form__submit {
+    display: block;
+    width: 120px;
+    margin: 16px auto;
+    padding: 8px 0;
+    border: 1px solid #c615e9cb;
+    border-radius: 10px;
+    font-size: 1rem;
+    color: rgb(20, 244, 39);
+    background-color: rgb(165, 132, 218);
+    text-align: center;
+}
